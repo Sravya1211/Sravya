@@ -1,0 +1,33 @@
+Create a Person class that represents a person with two properties:
+
+Name: This should be an auto-implemented (shorthand) property.
+
+Age: This should be a property in full format with validation logic in the set accessor:
+
+The setter should ensure that the age is a positive integer. If an invalid value is provided (e.g., negative or zero), an ArgumentException should be thrown and the program should terminate without any further input.
+
+In addition, you need to create a Program class with the Main method that:
+
+Prompts the user to input a person's Name.
+
+Prompts the user to input a person's Age.
+
+If the age is valid, print the person's name and age.
+
+If the age is invalid, catch the exception, display an error message, and terminate the program.
+
+Example Input & Output:
+
+Enter your name: Alice
+
+Enter your age: 30
+
+Name: Alice Age: 30
+
+ 
+
+Enter your name: Alice
+
+Enter your age: -5
+
+Error: Age must be a positive number.

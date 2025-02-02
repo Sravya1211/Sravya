@@ -1,0 +1,15 @@
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/bin/Debug/net8.0/Class_validation
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/bin/Debug/net8.0/Class_validation.deps.json
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/bin/Debug/net8.0/Class_validation.runtimeconfig.json
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/bin/Debug/net8.0/Class_validation.dll
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/bin/Debug/net8.0/Class_validation.pdb
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/obj/Debug/net8.0/Class_validation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/obj/Debug/net8.0/Class_validation.AssemblyInfoInputs.cache
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/obj/Debug/net8.0/Class_validation.AssemblyInfo.cs
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/obj/Debug/net8.0/Class_validation.csproj.CoreCompileInputs.cache
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/obj/Debug/net8.0/Class_validation.sourcelink.json
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/obj/Debug/net8.0/Class_validation.dll
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/obj/Debug/net8.0/refint/Class_validation.dll
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/obj/Debug/net8.0/Class_validation.pdb
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/obj/Debug/net8.0/Class_validation.genruntimeconfig.cache
+/Users/sravya/Sravya/CSharp_Properties/Class_validation/obj/Debug/net8.0/ref/Class_validation.dll
