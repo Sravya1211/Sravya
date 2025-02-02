@@ -1,0 +1,15 @@
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/bin/Debug/net8.0/oops_demo
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/bin/Debug/net8.0/oops_demo.deps.json
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/bin/Debug/net8.0/oops_demo.runtimeconfig.json
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/bin/Debug/net8.0/oops_demo.dll
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/bin/Debug/net8.0/oops_demo.pdb
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/obj/Debug/net8.0/oops_demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/obj/Debug/net8.0/oops_demo.AssemblyInfoInputs.cache
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/obj/Debug/net8.0/oops_demo.AssemblyInfo.cs
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/obj/Debug/net8.0/oops_demo.csproj.CoreCompileInputs.cache
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/obj/Debug/net8.0/oops_demo.sourcelink.json
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/obj/Debug/net8.0/oops_demo.dll
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/obj/Debug/net8.0/refint/oops_demo.dll
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/obj/Debug/net8.0/oops_demo.pdb
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/obj/Debug/net8.0/oops_demo.genruntimeconfig.cache
+/Users/sravya/Sravya/CSharp_OOP/oops_demo/obj/Debug/net8.0/ref/oops_demo.dll
