@@ -1,0 +1,15 @@
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/bin/Debug/net8.0/UserAuthentication
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/bin/Debug/net8.0/UserAuthentication.deps.json
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/bin/Debug/net8.0/UserAuthentication.runtimeconfig.json
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/bin/Debug/net8.0/UserAuthentication.dll
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/bin/Debug/net8.0/UserAuthentication.pdb
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/obj/Debug/net8.0/UserAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/obj/Debug/net8.0/UserAuthentication.AssemblyInfoInputs.cache
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/obj/Debug/net8.0/UserAuthentication.AssemblyInfo.cs
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/obj/Debug/net8.0/UserAuthentication.csproj.CoreCompileInputs.cache
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/obj/Debug/net8.0/UserAuthentication.sourcelink.json
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/obj/Debug/net8.0/UserAuthentication.dll
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/obj/Debug/net8.0/refint/UserAuthentication.dll
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/obj/Debug/net8.0/UserAuthentication.pdb
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/obj/Debug/net8.0/UserAuthentication.genruntimeconfig.cache
+/Users/sravya/Sravya/CSharp_Basic_Syntax/UserAuthentication/obj/Debug/net8.0/ref/UserAuthentication.dll
